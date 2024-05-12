@@ -2,7 +2,9 @@
 todo_flask youtube
 
 Commands:
+
 cd %USERPROFILE%
+
 mkdir flask_project
 cd flask_project
 mkdir todo_flask
